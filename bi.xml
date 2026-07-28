@@ -1,0 +1,214 @@
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<xsd:schema id="VFPData" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xsd:element name="VFPData" msdata:IsDataSet="true">
+			<xsd:complexType>
+				<xsd:choice maxOccurs="unbounded">
+					<xsd:element name="bi" minOccurs="0" maxOccurs="unbounded">
+						<xsd:complexType>
+							<xsd:sequence>
+								<xsd:element name="bistamp">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:string">
+											<xsd:maxLength value="25"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<xsd:element name="nmdos">
+									<xsd:simpleType>
+										<xsd:restriction base="xsd:string">
+											<xsd:maxLength value="24"/>
+										</xsd:restriction>
+									</xsd:simpleType>
+								</xsd:element>
+								<!-- schema truncated in file for brevity: actual file content included below -->
+							</xsd:sequence>
+						</xsd:complexType>
+					</xsd:element>
+				</xsd:choice>
+				<xsd:anyAttribute namespace="http://www.w3.org/XML/1998/namespace" processContents="lax"/>
+			</xsd:complexType>
+		</xsd:element>
+	</xsd:schema>
+	<bi>
+		<bistamp>PK26071355156,272000002</bistamp>
+		<nmdos>Pr�-Proposta AL</nmdos>
+		<obrano>425</obrano>
+		<ref>D20142268</ref>
+		<design>CONTROLADOR ACESSOS RFID+TECLADO EXTERIOR</design>
+		<qtt>1.0000</qtt>
+		<qtt2>1.0000</qtt2>
+		<pu>53239.99992</pu>
+		<debito>53239.99992</debito>
+		<prorc>53240.000</prorc>
+		<iva>23.00</iva>
+		<tabiva>2</tabiva>
+		<armazem>1</armazem>
+		<stipo>4</stipo>
+		<no>105448</no>
+		<pcusto>25822.08160</pcusto>
+		<serie/>
+		<nomquina>0</nomquina>
+		<nopat>0</nopat>
+		<fno>397</fno>
+		<fdata>2026-07-13</fdata>
+		<nmdoc>Proposta AL</nmdoc>
+		<ndoc>352</ndoc>
+		<ndos>10</ndos>
+		<forref/>
+		<txiva>0</txiva>
+		<rdata>2026-07-13</rdata>
+		<dedata>1900-01-01</dedata>
+		<atedata>1900-01-01</atedata>
+		<lobs/>
+		<obranome/>
+		<datafinal>2026-07-13</datafinal>
+		<dataopen>2026-07-13</dataopen>
+		<tecnico>0</tecnico>
+		<maquina/>
+		<marca/>
+		<litem/>
+		<lobs2/>
+		<litem2/>
+		<lobs3/>
+		<vendedor>0</vendedor>
+		<vendnm/>
+		<tabela1/>
+		<vumoeda>.000000</vumoeda>
+		<ldossier>0</ldossier>
+		<fechada>false</fechada>
+		<dataobra>2026-07-13</dataobra>
+		<datafecho>1900-01-01</datafecho>
+		<zona/>
+		<resfor>false</resfor>
+		<rescli>false</rescli>
+		<resrec>false</resrec>
+		<iprint>false</iprint>
+		<estab>0</estab>
+		<resusr>false</resusr>
+		<ar2mazem>0</ar2mazem>
+		<composto>false</composto>
+		<compostoori>false</compostoori>
+		<lrecno>PK26071355156,272000002</lrecno>
+		<lordem>10000</lordem>
+		<fmarcada>false</fmarcada>
+		<producao>false</producao>
+		<local>FARO</local>
+		<morada>CAMPUS DE GAMBELAS</morada>
+		<codpost>8005-139 FARO</codpost>
+		<nome>UNIVERSIDADE DO ALGARVE - F.M.C.B.</nome>
+		<tabfor>false</tabfor>
+		<descli>false</descli>
+		<reff/>
+		<lote/>
+		<ivaincl>false</ivaincl>
+		<cor/>
+		<tam/>
+		<segmento/>
+		<bofref/>
+		<bifref/>
+		<grau>.000</grau>
+		<partes>.000</partes>
+		<partes2>.000</partes2>
+		<altura>.000</altura>
+		<largura>.000</largura>
+		<espessura>.000</espessura>
+		<biserie/>
+		<infref>false</infref>
+		<lifref>false</lifref>
+		<uni2qtt>.0000</uni2qtt>
+		<epcusto>128.800000</epcusto>
+		<ttmoeda>.00</ttmoeda>
+		<adoc>397</adoc>
+		<cpoc>0</cpoc>
+		<stns>false</stns>
+		<obistamp>PK26063055838,683000001</obistamp>
+		<oobistamp>PK26063055838,683000001</oobistamp>
+		<usr1>ROGER</usr1>
+		<usr2>PR311</usr2>
+		<usr3>M�DULOS E FECHADURAS</usr3>
+		<usr4>M�DULOS LEITORES</usr4>
+		<usr5/>
+		<usr6>EXTERIOR</usr6>
+		<usalote>false</usalote>
+		<texteis>false</texteis>
+		<unidade>UN</unidade>
+		<unidad2/>
+		<oftstamp/>
+		<ofostamp/>
+		<promo>false</promo>
+		<epromo>false</epromo>
+		<familia>CONTROLO DE ACESSO</familia>
+		<noserie>true</noserie>
+		<slvu>.00000</slvu>
+		<eslvu>.000000</eslvu>
+		<sltt>.00000</sltt>
+		<esltt>.000000</esltt>
+		<slvumoeda>.00</slvumoeda>
+		<slttmoeda>.00</slttmoeda>
+		<ncmassa>.000</ncmassa>
+		<ncunsup>.0000</ncunsup>
+		<ncvest>.00000</ncvest>
+		<encvest>.000000</encvest>
+		<nccod/>
+		<ncinteg/>
+		<classif>0</classif>
+		<epu>265.560000</epu>
+		<edebito>265.560000</edebito>
+		<eprorc>265.560000</eprorc>
+		<ttdeb>53240.00000</ttdeb>
+		<ettdeb>265.560000</ettdeb>
+		<binum1>0</binum1>
+		<binum2>0</binum2>
+		<codigo>1999999130890</codigo>
+		<sattotal>false</sattotal>
+		<classifc/>
+		<posic/>
+		<desconto>.00</desconto>
+		<desc2>.00</desc2>
+		<desc3>.00</desc3>
+		<desc4>.00</desc4>
+		<desc5>.00</desc5>
+		<desc6>.00</desc6>
+		<series/>
+		<series2/>
+		<ccusto>Algarve</ccusto>
+		<ncusto/>
+		<num1>.00000</num1>
+		<fechabo>false</fechabo>
+		<oobostamp/>
+		<ltab1/>
+		<ltab2/>
+		<ltab3/>
+		<ltab4/>
+		<ltab5/>
+		<fami/>
+		<pctfami>.00</pctfami>
+		<adjudicada>false</adjudicada>
+		<tieca>.00000</tieca>
+		<etieca>.000000</etieca>
+		<mtieca>.000</mtieca>
+		<volume>.000</volume>
+		<iecasug>false</iecasug>
+		<iecagrad>.000</iecagrad>
+		<iecacodisen/>
+		<peso>.000</peso>
+		<pbruto>.000</pbruto>
+		<codfiscal/>
+		<dgeral/>
+		<temoci>false</temoci>
+		<temomi>false</temomi>
+		<temsubemp>false</temsubemp>
+		<encargo>.00000</encargo>
+		<eencargo>.000000</eencargo>
+		<custoind>25822.08160</custoind>
+		<ecustoind>128.800000</ecustoind>
+		<tiposemp/>
+		<pvok>false</pvok>
+		<mntencargos>false</mntencargos>
+		<boclose>false</boclose>
+		<dtclose>1900-01-01</dtclose>
+		<quarto/>
+		<emconf>false</emconf>
+		<efornecedor/></bi>
+</VFPData>
