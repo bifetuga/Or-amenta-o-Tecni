@@ -1,0 +1,18 @@
+# Regras de compatibilidade e requisitos mínimos
+requires:
+  fonte_alimentacao:
+    - bateria
+  eletro_imam:
+    - suporte
+  painel_solar:
+    - controlador_de_carga
+    - inversor
+incompatible:
+  - [motor_ac, inversor_dc]
+  - [sensor_infra_vermelho, sensor_ultrassonico]
+min_quantity:
+  cabo_alimentacao: 1
+  suporte: 1
+notes_requirements:
+  - pattern: "(garantia|warranty)"
+    required_fields: ["duracao_garantia", "condicoes"]
